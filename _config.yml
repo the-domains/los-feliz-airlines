@@ -1,4 +1,6 @@
 typography_spectrum: 0.1186052521225065
+content_rating:
+  adult: false
 color:
   brandStrength: 0.25423527020029724
   lightness: 0.739758042851463
@@ -10,6 +12,7 @@ color:
     - '#D9E8F5'
     - '#FFFFFF'
     - '#F26101'
+github: true
 layout_spectrum: 0.19240282801911235
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f08f954-5de2-4982-981b-512308b15724.png
@@ -24,6 +27,9 @@ colors:
 navigation:
   - name: OUR WORK
     id: 33246411-be31-4aa4-9b9f-6155189e618a
+    type: content
+  - name: Gear
+    id: 71942e2f-db7d-4f2e-9dff-170f0e6f8275
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/31a2ea9b-510b-47da-ad46-e4f964a83c18.psd
@@ -88,6 +94,3 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: Unmanned Aerial Cinematography
-github: true
-content_rating:
-  adult: false
