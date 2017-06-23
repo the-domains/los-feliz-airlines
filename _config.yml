@@ -1,0 +1,93 @@
+typography_spectrum: 0.1186052521225065
+color:
+  brandStrength: 0.25423527020029724
+  lightness: 0.739758042851463
+  saturation: 0.6920105745084584
+  rhythmicContrast: 0.9877180922776461
+  brandColors:
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
+layout_spectrum: 0.19240282801911235
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f08f954-5de2-4982-981b-512308b15724.png
+name: Los Feliz Airlines
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: OUR WORK
+    id: 33246411-be31-4aa4-9b9f-6155189e618a
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/31a2ea9b-510b-47da-ad46-e4f964a83c18.psd
+title: LOS FELIZ AIRLINES
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: video
+    html: >-
+      <iframe
+      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F180330663&url=https%3A%2F%2Fvimeo.com%2F180330663&image=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F588526992_1280.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=vimeo"
+      width="1000" height="563" scrolling="no" frameborder="0"
+      allowfullscreen></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      datePublished: null
+      isBasedOnUrl: 'https://vimeo.com/180330663'
+      keywords: []
+      related: []
+      author:
+        - name: los feliz airlines
+          url: 'https://vimeo.com/losfelizairlines'
+          avatar: {}
+      '@context': 'http://schema.org'
+      title: REEL_6_23_16
+      '@type': VideoObject
+      app_links:
+        - url: 'vimeo://app.vimeo.com/videos/180330663'
+          type: ios
+          namespace: ai
+          app_name: Vimeo
+          app_store_id: '425194759'
+        - should_fallback: 'true'
+          app_name: Vimeo
+          package: com.vimeo.android.videoapp
+          url: 'vimeo://app.vimeo.com/videos/180330663'
+          namespace: ai
+          type: web
+        - url: 'vimeo://app.vimeo.com/videos/180330663'
+          namespace: twitter
+          type: ipad
+          name: Vimeo
+          id: '425194759'
+        - url: 'vimeo://app.vimeo.com/videos/180330663'
+          namespace: twitter
+          type: iphone
+          name: Vimeo
+          id: '425194759'
+        - url: 'vimeo://app.vimeo.com/videos/180330663'
+          namespace: twitter
+          type: googleplay
+          name: Vimeo
+          id: com.vimeo.android.videoapp
+      publisher:
+        url: 'https://vimeo.com/'
+        name: Vimeo
+        favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+        domain: vimeo.com
+      description: >-
+        Los Feliz Airlines' 2016 showcase of Aerial Cinematography and Drone
+        footage.
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: Unmanned Aerial Cinematography
+github: true
+content_rating:
+  adult: false
