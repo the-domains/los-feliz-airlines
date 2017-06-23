@@ -6,8 +6,8 @@ description: >-
   separately), the ALTA 8 will support payloads up to 20 pounds, making it ideal
   for today's lightweight cinema cameras. The ALTA 8 allows the gimbal can be
   mounted above, as well as below, the aircraft, enabling "sky view" shots.
-dateModified: '2017-06-23T02:15:18.196Z'
-datePublished: '2017-06-23T02:15:19.733Z'
+dateModified: '2017-06-23T02:18:18.094Z'
+datePublished: '2017-06-23T02:18:19.387Z'
 title: ''
 author: []
 publisher: {}
